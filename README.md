@@ -18,7 +18,7 @@
   <a href="https://x.com/java34i" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=twitter&label=&color=1da1f2&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://discord.com/users/java34i" target="_blank">
+  <a href="https://discord.com/users/1349383974622986324" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289da&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://github.com/java34i" target="_blank">

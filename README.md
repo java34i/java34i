@@ -24,9 +24,9 @@ When I’m not staring at my screen trying to find that one missing semicolon, y
 
 Things I tinker with:
 
-- **Languages:** Java, Python, JavaScript, HTML/CSS, (soon C#)
-- **Game Engines:** Unity, Unreal Engine
-- **Tools:** VS Code, PyCharm, IntelliJ, GitHub, CodePen
+- **Languages:** Java, Python, JavaScript, HTML/CSS & C#
+- **Game Engines:** Unity
+- **Tools:** VS Code, IntelliJ, GitHub
 
 ---
 
@@ -49,7 +49,6 @@ Hit me up on [Discord](https://discord.com/users/1349383974622986324), [X](https
 
 ## 🧪 Side Experiments
 
-- Making weird stuff in p5.js  
 - Practicing game dev ideas that never see the light of day  
 - Redesigning things just because they "don’t feel right"
 
